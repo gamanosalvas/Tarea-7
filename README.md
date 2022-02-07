@@ -39,7 +39,7 @@ Capitulo 13
 
 Capitulo 14
 
-
+![image](https://user-images.githubusercontent.com/94025287/152810696-a9df0773-3a7b-400f-8097-ea012883bba0.png)
 
 3.- Explicación y Resolución de ejercicios o problemas:
 
@@ -116,6 +116,11 @@ SECCIÓN 14–3 Transformadores elevadores y reductores
 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/93210648/152721149-e6334e9f-0bd3-427f-9138-17ed38b4b491.png)
+
+13. Determine las lecturas de medidor no especificadas en la figura 14-44.
+
+![image](https://user-images.githubusercontent.com/94025287/152810935-e0cdf892-b644-4fe9-b7d8-1bf6e955a10c.png)
+
 
 
 
