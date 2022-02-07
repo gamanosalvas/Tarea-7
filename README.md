@@ -121,8 +121,93 @@ SECCIÓN 14–3 Transformadores elevadores y reductores
 
 ![image](https://user-images.githubusercontent.com/94025287/152810935-e0cdf892-b644-4fe9-b7d8-1bf6e955a10c.png)
 
+![image](https://user-images.githubusercontent.com/94025287/152830500-c8cef6dc-c9e5-4848-b534-9aa6662ef849.png)
 
 
+15. Determine las siguientes cantidades en la figura 14-46.
+
+(a) Corriente primaria   
+
+![image](https://user-images.githubusercontent.com/94025287/152831929-68afcbad-c924-4a07-a180-b68b5d365bfa.png)
+
+(b) Corriente secundaria
+
+![image](https://user-images.githubusercontent.com/94025287/152831979-2076f151-e1a3-4e62-92b5-4be807612f89.png)
+
+(c) Voltaje secundario    
+
+![image](https://user-images.githubusercontent.com/94025287/152832010-c2a6d3af-b78e-4717-a676-ccadacbe7998.png)
+
+(d) Potencia en la carga
+
+![image](https://user-images.githubusercontent.com/94025287/152832039-73d1ebea-a3b2-4f45-9abb-fc3b3c126593.png)
+
+17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
+
+![image](https://user-images.githubusercontent.com/94025287/152832081-45553e19-97e6-4655-85b2-6a8e70acdf75.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832554-62d39626-f79b-4b99-9e23-a7cf158dbe8b.png)
+
+19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
+
+![image](https://user-images.githubusercontent.com/94025287/152832603-c551fd1b-ce73-4140-85aa-652b9f0de89b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832878-8cac10fb-359d-48db-a35d-66090a52d588.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832905-4d31ff80-7d68-431e-befc-c2cf563baf19.png)
+
+21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+En un transformador práctico, la conversión de energía eléctrica en calor reduce la eficiencia. La eficiencia de un transformador ideal es del 100 por ciento.
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+Cuando k 0.85, un 85% del flujo magnético generado en el devanado primario pasa a través del devanado secundario.
+
+25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10A a través de la carga con un voltaje secundario de 2?5 kV?
+
+![image](https://user-images.githubusercontent.com/94025287/152832731-c72a0e6a-c364-440b-8996-73e3daef5f24.png)
+
+27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/94025287/152832766-dacd2ee5-773e-4700-9b22-46edd4e2769a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837242-c05cd720-9545-44c2-84ff-20c4fdca7ccf.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837272-87b37715-b42b-4ed6-9dd0-a18f4cdbda66.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837297-45fa814d-df0f-4097-a5ce-104758ec28ee.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837316-5286f78b-a2d1-4e32-a678-cefe5b6a090b.png)
+
+29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/94025287/152837489-d9816908-9116-4826-ae86-abd1466d4535.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837538-20d4a813-811e-463a-bc92-6372b93db39a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837555-0994824b-5459-475a-898f-b38437512d1e.png)
+
+*31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+(a) Todos los voltajes y corrientes presentes en la carga
+
+![image](https://user-images.githubusercontent.com/94025287/152837844-dfd0cfce-8438-4d2d-990c-706d9c988a8e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837866-623b0184-f137-4ca7-8cca-8f03e4cc0701.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837906-dd8e8e00-d540-4671-952f-1983c27c399b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837938-6773d545-657d-4980-83cc-9d3ad5eaa59e.png)
+
+(b) La resistencia reflejada en el primario
+
+![image](https://user-images.githubusercontent.com/94025287/152838082-ec663290-c662-46aa-bc9f-648e2e4495a7.png)
+
+
+33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Fallas de transformador: los devanados abiertos son las fallas más comunes, los devanados en cortocircuito son mucho menos comunes.
 
 4.- Video:
 
