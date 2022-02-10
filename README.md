@@ -36,6 +36,7 @@ Especificos:
 
 Capitulo 13
 
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/94026628/152911282-afab06ed-2660-4389-a87b-09209c384c71.png)
 
 Capitulo 14
 
@@ -81,7 +82,88 @@ SECCIÓN 13–3 Inductores en serie y en paralelo
 
 ![image](https://user-images.githubusercontent.com/93210648/152651675-8e334d63-8b53-41e1-9494-d2212984a650.png)
 
+13. Determine la inductancia total en la figura 13-44.
 
+![image](https://user-images.githubusercontent.com/94026628/152911745-ac361d31-5c74-4209-b4d3-152665e8e31e.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152911778-03d852d0-4519-41b6-a43f-cb6b78574b51.png)
+
+15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
+
+![image](https://user-images.githubusercontent.com/94026628/152911854-1e0a704b-14b4-478b-a100-ff9c2cec6ffa.png)
+
+
+17. Determine la inductancia total de cada circuito mostrado en la figura 13-46
+
+![image](https://user-images.githubusercontent.com/94026628/152911889-0e70826f-5022-4c01-a580-b49ee1f50e28.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152911916-2fdd4487-dfc2-4efb-a790-27d70b318a39.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152911939-a7c00b13-0fa3-4d18-90c6-dbc8578a05c8.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152911975-34ba8fc6-6155-4ae8-a602-d36a524cd015.png)
+
+19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+
+a) R=100 Ω, L=100µH          
+c) R=4.7 KΩ, L=10mH
+c) R=1.5 MΩ, L=3H
+
+![image](https://user-images.githubusercontent.com/94026628/152912057-20b5d291-ef8e-420c-a247-b3ff3e942131.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152912203-7aed86b7-69ee-4100-8291-40ee00b90f70.png)
+
+
+21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
+A) 10 µs    B) 20 µs    C) 30 µs    
+
+![image](https://user-images.githubusercontent.com/94026628/152912253-89602d80-97e6-48dc-8637-a099a5c61ac4.png)
+
+
+![image](https://user-images.githubusercontent.com/94026628/152912333-f8f6455f-8b1e-4d17-afc0-2bb8f9bac96a.png)
+
+23. Repita el problema 21 para los siguientes instantes:
+A) 2 µ s     B ) 5 µ s     C) 15 µ s
+
+![image](https://user-images.githubusercontent.com/94026628/152912445-0eb95bb2-9544-43aa-a53a-eadb430beac9.png)
+
+
+25. Para los circuitos de la figura 13-40, determine L3 y L4.
+
+![image](https://user-images.githubusercontent.com/94026628/152912484-24eddd68-d698-4530-bb81-3b9b7675ed84.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152912515-a1189ac7-b3dd-4d44-b279-78715ed9e64d.png)
+
+27. Dos inductancias de 6H y 4H están conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4H. ¿Cuál es el valor de la tercera inductancia y como está conectada?
+
+![image](https://user-images.githubusercontent.com/94026628/152912566-5709ea18-ccc5-4bcb-8966-64bb8feeedd1.png)
+
+El circuito  se encuentra conectado  en serie  con 6H y 4H
+
+29. Inductancias de 8, 12, y 1.2 H están conectadas en un circuito. Si LT = 6H, ¿Cómo están
+conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/94026628/152913007-b87464a3-b36d-4fe9-8149-5e9655bba737.png)
+
+Los inductores de 8H y 12H están conectados en paralelo y 1.2H están en serie con 8 H y 12H
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+
+![image](https://user-images.githubusercontent.com/94026628/152913061-5868fbdd-772a-4d03-815b-86a5d305c17b.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152913089-8ae1c81c-f964-4f9c-8268-e3bb12dceb60.png)
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44
+
+
+![image](https://user-images.githubusercontent.com/94026628/152913113-3932143a-ec57-4fdf-87ea-0407ae6d2811.png)
+
+![image](https://user-images.githubusercontent.com/94026628/152913144-be472ede-e5ba-4a93-8e6c-16eef91bf6fa.png)
+
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/94026628/152913190-e8901025-d0f9-44de-bad0-d2ab521f0f70.png)
 
 CAPITULO 14:
 
@@ -211,7 +293,7 @@ Fallas de transformador: los devanados abiertos son las fallas más comunes, los
 
 4.- Video:
 
-
+https://youtu.be/5OIGreeUqyU
 
 5.- Conclusiones:
 
